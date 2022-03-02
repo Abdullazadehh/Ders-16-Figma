@@ -1,0 +1,177 @@
+@media only screen and (max-width: 834px){
+    h2{
+        font-family: var(--font2);
+        font-weight: 700;
+        font-size: 32px;
+        color: #000000;
+        }
+
+    .main-text{
+            font-family: var(--font1);
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 21px;
+            max-width: 390px;
+            min-width: 390px;
+        }
+        .main-img{
+            width: 181px;
+            height: 182px;
+        }
+        .video-car-img{
+            display: none;
+        }
+        .n8{
+            margin-left:0;
+            margin-top: 0;
+        }
+        .n8-title{
+            font-size: 15px;
+            font-family: var(--font1);
+            font-weight: 700;
+            color: #000000;
+        }
+        .n8-text{
+            font-size: 11px;
+            color: #000000;
+            font-family: var(--font1);
+            font-weight: 400;
+            line-height: 14px;
+            width: 90px;
+}
+        .n2{
+            margin-left:55px;
+            margin-top: 0;
+        }
+        .n2-title{
+            font-size: 15px;
+            font-family: var(--font1);
+            font-weight: 700;
+            color: #000000;
+        }
+        .n2-text{
+            font-size: 11px;
+            color: #000000;
+            font-family: var(--font1);
+            font-weight: 400;
+            line-height: 14px;
+            width: 90px;
+        }
+        .n3{
+            margin-left:55px;
+            margin-top: 0;
+        }
+        .n3-title{
+            font-size: 15px;
+            font-family: var(--font1);
+            font-weight: 700;
+            color: #000000;
+        }
+        .n3-text{
+            font-size: 11px;
+            color: #000000;
+            font-family: var(--font1);
+            font-weight: 400;
+            line-height: 14px;
+            width: 90px;
+        }
+        .video-car{
+            width:80%;
+            margin: auto;
+            display: flex;
+            margin-top:50px;
+}
+}       
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 375px){
+
+    h2{
+        font-family: var(--font2);
+        font-weight: 700;
+        font-size: 26px;
+        color: #000000;
+        }
+
+
+        .main{
+            display: flex;
+            flex-direction: column;
+        }
+
+        .main-text{
+            font-family: var(--font1);
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 18px;
+            min-width: 308px;
+            max-width: 308px;
+        }
+        .main-img{
+            width: 145px;
+            height: 145px;
+            margin-left: 90px;
+        }
+
+        .n8{
+            margin-left:0;
+            margin-top: 0;
+        }
+        .n8-title{
+            font-size: 12px;
+            font-family: var(--font1);
+            font-weight: 700;
+            color: #000000;
+        }
+        .n8-text{
+            font-size: 10px;
+            color: #000000;
+            font-family: var(--font1);
+            font-weight: 400;
+            line-height: 13px;
+            width: 90px;
+}
+        .n2{
+            margin-left:55px;
+            margin-top: 0;
+        }
+        .n2-title{
+            font-size: 12px;
+            font-family: var(--font1);
+            font-weight: 700;
+            color: #000000;
+        }
+        .n2-text{
+            font-size: 10px;
+            color: #000000;
+            font-family: var(--font1);
+            font-weight: 400;
+            line-height: 13px;
+            width: 90px;
+        }
+        .n3{
+            margin-left:-235px;
+            margin-top: 70px;
+        }
+        .n3-title{
+            font-size: 12px;
+            font-family: var(--font1);
+            font-weight: 700;
+            color: #000000;
+        }
+        .n3-text{
+            font-size: 10px;
+            color: #000000;
+            font-family: var(--font1);
+            font-weight: 400;
+            line-height: 13px;
+            width: 90px;
+        }
+        
+}

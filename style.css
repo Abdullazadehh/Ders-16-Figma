@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+:root{
+    --font1: 'Roboto', sans-serif;
+    --font2: 'Roboto Slab', serif;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+h2{
+font-family: var(--font2);
+font-weight: 700;
+font-size: 55px;
+color: #000000;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.main-text{
+    font-family: var(--font1);
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    max-width: 663px;
+    min-width: 662px;
+    
+}
+.main-img{
+    width: 314px;
+    height: 315px;
+}
+
+.video-car{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 90px;
+    margin-bottom: 150px;
+}
+.video-car-img{
+    width: 232px;
+    height: 203px;
+}
+.n8{
+    margin-left: 132px;
+    margin-top: 40px;
+}
+.n8-title{
+    font-size: 25px;
+    font-family: var(--font1);
+    font-weight: 700;
+    color: #000000;
+}
+.n8-text{
+    font-size: 18px;
+    color: #000000;
+    font-family: var(--font1);
+    font-weight: 400;
+    line-height: 23px;
+    width: 150px;
+}
+
+.n2{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.n2-title{
+    font-size: 25px;
+    font-family: var(--font1);
+    font-weight: 700;
+    color: #000000;
+}
+.n2-text{
+    font-size: 18px;
+    color: #000000;
+    font-family: var(--font1);
+    font-weight: 400;
+    line-height: 23px;
+    width: 150px;
+}
+.n3{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.n3-title{
+    font-size: 12px;
+    font-family: var(--font1);
+    font-weight: 700;
+    color: #000000;
+}
+.n3-text{
+    font-size: 18px;
+    color: #000000;
+    font-family: var(--font1);
+    font-weight: 400;
+    line-height: 23px;
+    width: 150px;
+}
+
+.video-car-mobile{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
